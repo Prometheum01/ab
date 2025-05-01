@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Dark Theme-->
+    <color name="textColor">#F5ECD5</color>
+    <color name="secondaryTextColor">#F0BB78</color>
+    <color name="primaryColor">#A4B465</color>
+    <color name="secondaryColor">#626F47</color>
+</resources>
